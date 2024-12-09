@@ -104,6 +104,6 @@ module.exports = {
         icon: "static" + iconImg,
       },
     },
-    "gatsby-plugin-offline",
+    // "gatsby-plugin-offline", // Bu satırı kaldırdık
   ],
 };
